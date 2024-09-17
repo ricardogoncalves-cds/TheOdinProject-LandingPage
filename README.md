@@ -1,1 +1,1 @@
-# TheOdinProject-LandingPage
+# theodinproject-landingpage
