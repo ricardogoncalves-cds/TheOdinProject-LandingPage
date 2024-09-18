@@ -93,6 +93,7 @@ a {
     padding: 6px;
     margin-top: 12px;
     width: 96px;
+    cursor: pointer;
 }
 
 .hero-image {
